@@ -9,7 +9,7 @@ public class Exercise1 {
         this.n2 = n2;
     }
 
-    public void SUM(){
+    public void Calculation(){
         int sum = n1 + n2;
         System.out.println("The sum between the number 1 and 2 is "+sum);
     }
